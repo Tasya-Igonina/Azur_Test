@@ -1,0 +1,9 @@
+arrow_anim.png
+	size: 256, 512
+	filter: MipMap, MipMap
+	pma: true
+arrow
+	bounds: 2, 141, 177, 178
+arrow_glow
+	bounds: 2, 2, 177, 178
+	rotate: 180

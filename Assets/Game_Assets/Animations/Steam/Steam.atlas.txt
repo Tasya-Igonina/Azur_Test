@@ -1,0 +1,16 @@
+Steam.png
+	size: 512, 128
+	filter: MipMap, MipMap
+	pma: true
+steam_green_1
+	bounds: 358, 39, 32, 84
+	rotate: 90
+steam_green_2
+	bounds: 358, 9, 28, 85
+	rotate: 90
+steam_green_3
+	bounds: 206, 9, 62, 150
+	rotate: 90
+steam_green_4
+	bounds: 2, 2, 69, 202
+	rotate: 90

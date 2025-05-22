@@ -1,0 +1,13 @@
+bird.png
+	size: 128, 256
+	filter: MipMap, MipMap
+	pma: true
+body_b1
+	bounds: 2, 90, 85, 87
+tail_b1
+	bounds: 2, 2, 49, 33
+	rotate: 90
+wing_l_b1
+	bounds: 2, 53, 56, 35
+wing_r_b1
+	bounds: 40, 19, 44, 53

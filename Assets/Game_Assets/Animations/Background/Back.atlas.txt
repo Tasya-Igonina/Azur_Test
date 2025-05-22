@@ -1,0 +1,119 @@
+Back.png
+	size: 4096, 2048
+	filter: MipMap, MipMap
+	pma: true
+arm_l
+	bounds: 2328, 26, 130, 140
+arm_r
+	bounds: 2460, 70, 84, 147
+body
+	bounds: 1338, 9, 219, 256
+body_b2
+	bounds: 2754, 22, 99, 84
+branch_1
+	bounds: 2027, 108, 273, 157
+branch_2
+	bounds: 3280, 812, 846, 284
+	rotate: 90
+branch_3
+	bounds: 3293, 2, 473, 264
+bush_1
+	bounds: 3566, 559, 299, 253
+	rotate: 90
+bush_2
+	bounds: 3672, 265, 292, 237
+	rotate: 90
+bush_3
+	bounds: 1559, 139, 310, 103
+cabbage
+	bounds: 608, 59, 252, 206
+closed_eye_l
+	bounds: 495, 15, 98, 59
+closed_eye_r
+	bounds: 401, 9, 92, 65
+corn_flakes
+	bounds: 1149, 31, 187, 234
+eye_stroke_l
+	bounds: 1057, 37, 82, 59
+eye_stroke_r
+	bounds: 2477, 9, 67, 59
+eyeball_l
+	bounds: 662, 3, 63, 54
+eyeball_r
+	bounds: 595, 2, 65, 55
+eyelash_l
+	bounds: 1622, 1626, 81, 15
+eyelash_r
+	bounds: 1622, 1643, 84, 15
+eyelid_l
+	bounds: 127, 17, 62, 29
+eyelid_r
+	bounds: 2, 17, 64, 29
+foot_l
+	bounds: 1622, 1607, 19, 17
+foot_l_1
+	bounds: 1622, 1590, 19, 15
+forearm_l
+	bounds: 2546, 14, 131, 105
+forearm_r
+	bounds: 862, 13, 193, 86
+hand_l
+	bounds: 2394, 3, 83, 79
+hand_r
+	bounds: 2058, 5, 136, 106
+head
+	bounds: 3347, 254, 303, 324
+	rotate: 270
+juice_pineapple
+	bounds: 2, 267, 1618, 385
+laddle
+	bounds: 1818, 27, 245, 238
+neck
+	bounds: 305, 3, 94, 71
+pepper
+	bounds: 2754, 156, 62, 109
+poison
+	bounds: 2971, 21, 48, 101
+pot_big_back
+	bounds: 2, 48, 301, 217
+pot_big_front
+	bounds: 305, 76, 301, 189
+pot_cover_1
+	bounds: 1559, 20, 208, 117
+pot_handle
+	bounds: 862, 101, 285, 164
+pupil_l
+	bounds: 1622, 1573, 13, 15
+pupil_r
+	bounds: 1622, 1573, 13, 15
+red_bottle
+	bounds: 2679, 48, 73, 111
+ribbon
+	bounds: 2818, 17, 151, 159
+skirt
+	bounds: 3553, 1017, 454, 252
+	rotate: 90
+sky
+	bounds: 2791, 267, 1010, 554
+	rotate: 90
+sleeve_l
+	bounds: 1946, 17, 132, 132
+sleeve_r
+	bounds: 2211, 37, 123, 144
+stove
+	bounds: 3423, 559, 598, 141
+	rotate: 90
+tail_b2
+	bounds: 191, 11, 58, 35
+wall
+	bounds: 2, 654, 1618, 1004
+window_frame_back
+	bounds: 2207, 267, 1036, 582
+	rotate: 90
+window_frame_front
+	bounds: 1622, 267, 1037, 583
+	rotate: 90
+wing_l_b2
+	bounds: 67, 6, 58, 40
+wing_r_b2
+	bounds: 727, 6, 35, 51
